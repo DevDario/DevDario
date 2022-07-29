@@ -19,7 +19,7 @@ Eu tenciono me tornar num desenvolvedor Fullstack, e estou **estudando e trabalh
 
 
 # Instagram 📫
-[@devdariojs](https://www.instagram.com/@devdariojs)
+[@devdariojs](https://www.instagram.com/devdariojs)
 
 # LinkedIn 📫
 [Dário Silva](https://www.linkedin.com/mwlite/in/d%C3%A1rio-silva-648651234)
