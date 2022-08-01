@@ -1,25 +1,32 @@
-Olá 😄 Eu sou Dário Silva.
-Desenvolvedor Front-end e Designer Gráfico.
 
-# Sobre mim
-Sou designer gráfico a 4 anos, e no final de 2021 decidi aprender desenvolvimento web, venho desde então aprendendo diversas tecnologias como:
-- HTML
-- SASS
-- CSS
-- JAVASCRIPT
-- MySQL
-- C
-- Python
-
-e alguns Frameworks como:
-- React.js
-- Bootstrap
-
-Eu tenciono me tornar num desenvolvedor Fullstack, e estou **estudando e trabalhando muito** para **alcançar o meu objetivo**
+<div align="center">
+  <a href="https://github.com/DevDario">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDario&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
-# Instagram 📫
-[@devdariojs](https://www.instagram.com/devdariojs)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Dario-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-# LinkedIn 📫
-[Dário Silva](https://www.linkedin.com/mwlite/in/d%C3%A1rio-silva-648651234)
+
+  <img align="center" alt="Dario-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+  <img align="center" alt="Dario-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img align="center" alt="Dario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="Dario-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+ 
+<div> 
+   <a href="https://instagram.com/devdariojs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+ 
+  <a href = "mailto:dariosilva13222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <a href="https://www.linkedin.com/mwlite/in/d%C3%A1rio-silva-648651234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
