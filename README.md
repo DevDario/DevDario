@@ -1,4 +1,8 @@
-# Bem vindo ! Eu sou Dário silva 🙋🏽‍♂️
+# Bem vindo !
+## Eu sou Dário Silva 🙋🏽‍♂️
+
+##
+
 - Desenvolvedor Front-end
 - Web Designer
 - UI/UX Designer
@@ -21,7 +25,12 @@
   <img align="center" alt="Dario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   <img align="center" alt="Dario-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Dario-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
+  <img align="center" alt="Dario-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
+  <img align="center" alt="Dario-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+
+  <img align="center" alt="Dario-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
  
 ## 
