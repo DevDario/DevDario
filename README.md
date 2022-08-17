@@ -1,11 +1,11 @@
-# Bem vindo !
-## Eu sou Dário Silva 🙋🏽‍♂️
+## Olá !,  Eu sou Dário Silva 🙋🏽‍♂️
 
-##
+#
 
-- Desenvolvedor Front-end
-- Web Designer
-- UI/UX Designer
+- 🖥️ Desenvolvedor Front-end
+- 💡 Web Designer
+- 📱 UI/UX Designer
+- 📚 Estudante de Engenharia Informática 
 
 <div align="center">
   <a href="https://github.com/DevDario">
