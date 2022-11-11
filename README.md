@@ -12,7 +12,6 @@ I own a organization on GitHub that I've recently created. It's focused on web d
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td style="border: 0";>
-<img width="400" src="https://i.imgur.com/bXxIgrd.png" />
 </td>
 <td style="border: 0";>
 <p>
@@ -37,6 +36,6 @@ I own a organization on GitHub that I've recently created. It's focused on web d
 </tr>
 </table>
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevDario&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevDario&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevDariok&theme=nord_dark) |
-| :-: | :-: | :-: |
+| :---: | :---: | :---: |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevDariok&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=DevDario&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
