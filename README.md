@@ -17,7 +17,7 @@ I own a organization on GitHub that I've recently created. It's focused on web d
 </td>
 <td style="border: 0";>
 <p>
-💻 Project focused on web development and software development <a href="https://www.github.com.com/TypeSomethings/">Type Somethings<a/>.
+💻 Project focused on web development and software development <a href="[https://www.github.com.com/TypeSomethings/](https://github.com/TypeSomethings)">Type Somethings<a/>.
 </p>
 <p>
 🌙 Making daily content in <a href="https://www.instagram.com/devdariojs/">@devdariojs</a>
