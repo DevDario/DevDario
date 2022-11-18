@@ -44,8 +44,8 @@ I own a organization on GitHub that I've recently created. It's focused on web d
 </table>
 <div>
   <a href="https://github.com/DevDario">
-  <img height="180em" width="13em" src="https://github-readme-stats.vercel.app/api?username=DevDario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="13em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDario&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="130rem" src="https://github-readme-stats.vercel.app/api?username=DevDario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="130rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDario&layout=compact&langs_count=7&theme=dracula"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevDario&theme=nord_dark) ![](https://github-readme-streak-stats.herokuapp.com/?user=DevDario&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff)
 </div>
