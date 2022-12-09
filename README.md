@@ -16,13 +16,7 @@ I create ideias and develop solutions in the shape of webpages and software usin
   ❓
   I'm currently creating an open-source organization that focus on developing web and software projects that helps solving real problems using our creativity and skills. @TypeSomethings it is my personal project that I want to become something much bigger and that gives me the ability to improve as a developer and as a computer engineer and also experience to better face the job market, solving problems using the most appropriate methods and technologies.
   
-  ## My Stats on GitHub 📊
 </p>
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDario&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDario&layout=compact&langs_count=7&theme=shades-of-purple"/>
-</div>
 
 ## My Skills 🚀
 
@@ -37,3 +31,13 @@ I create ideias and develop solutions in the shape of webpages and software usin
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+## My Stats on GitHub 📊
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDario&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDario&layout=compact&langs_count=7&theme=shades-of-purple"/>
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevDario&bg_color=2d2b55&color=a27aff&line=eac507&point=a266ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
