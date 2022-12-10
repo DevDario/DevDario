@@ -18,26 +18,9 @@ I create ideias and develop solutions in the shape of webpages and software usin
   
 </p>
 
-## My Skills 🚀
-
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html&logoColor=purple&labelColor=0D1117)&nbsp; 
-
-
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
 ## My Stats on GitHub 📊
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDario&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDario&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevDario&bg_color=2d2b55&color=a27aff&line=eac507&point=a266ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
