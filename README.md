@@ -13,7 +13,7 @@
 
 
 <div>
-  [![Dário Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDario&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDario&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  ![Dário Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDario&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDario&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
