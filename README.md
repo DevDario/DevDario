@@ -11,14 +11,7 @@
 - 💅🏼 Transforming beautiful wireframes into accessible webpages
 - 📳 Looking for my first job opportunity 🤝
 
-
 <a href="https://github.com/DevDario/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevDario&repo=github-readme-stats&theme=tokyonight&show_icons=true" />
-</a>
-
-#
-
-<a href="https://github.com/DevDario/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevDario&repo=convoychat" />
+  <img align="center" src="https://readme-stats.clckblog.space/api?username=DevDario&repo=github-readme-stats&theme=tokyonight&show_icons=true" />
 </a>
 
