@@ -13,7 +13,7 @@
 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDario&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDario&layout=compact&langs_count=7&theme=light"/>
+  [![Dário Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDario&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDario&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
