@@ -5,11 +5,10 @@
 </div>
 
 #
-- ⌨️ Learning to build Web Apps With ReactJS ⚛️
-- ☕ Learning to develop softwares with Java and C🦾
-- 🕸️ Focusing in JavaScript and Web Development
-- 💅🏼 Transforming beautiful wireframes into accessible webpages
-- 📳 Looking for my first job opportunity 🤝
+<div align="center">
+  <h1>Hello 🖐🏻 I'm Dário Silva</h2>
+  <p>FrontEnd Developer</p>
+</div>
 
 <a href="https://github.com/DevDario/github-readme-stats">
   <img align="center" src="https://readme-stats.clckblog.space/api?username=DevDario&repo=github-readme-stats&theme=tokyonight&show_icons=true" />
