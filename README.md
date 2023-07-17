@@ -7,10 +7,11 @@
 #
 <div align="center">
   <h1>Hello 🖐🏻 I'm Dário Silva</h2>
-  <p>FrontEnd Developer</p>
-</div>
+  <p>Web Developer</p>
+
 
 <a href="https://github.com/DevDario/github-readme-stats">
   <img align="center" src="https://readme-stats.clckblog.space/api?username=DevDario&repo=github-readme-stats&theme=tokyonight&show_icons=true" />
 </a>
+</div>
 
