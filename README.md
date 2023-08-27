@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Freelancer Frontend developer and UI/UX Designer
-- 🌱 &nbsp; Learning more about NextJS, ReactJS, Sass, Java and also MySQl
+- 🌱 &nbsp; Learning more about NextJS, ReactJS, Sass, Java and MySQL
 - ✍️ &nbsp; I also work as a Graphic Designer, Social Media and Brand Designer
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
