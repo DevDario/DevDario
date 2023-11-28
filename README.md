@@ -38,7 +38,7 @@
 <br/>
 
 <a href="https://github.com/DevDario" title="Perfil do Dário Silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDario&theme=tokyonight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDario&theme=nightowl&show_icons=true" />
 </a>
 
 <h3>Onde me encontrar</h3>
