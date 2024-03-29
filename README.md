@@ -6,7 +6,7 @@
 
 <p> 💻 I'm currently building Freelancer Projects and <br> studying <br> <br/> ⚙ I'm a Junior Java Software Developer <br> and ReactJs/NextJS Frontend Dev <br> <br> 🗂 Currently studying TypeScript, Prisma, NextJs, <br> PHP, and Sometimes Python</p>
 
-### Experiência de trabalho
+### Experience
 
 Get a look into my recent jobs:
 
