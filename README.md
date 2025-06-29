@@ -6,7 +6,7 @@ I'm a dev with an _Entreprenuers mind_.I **love** the ideia of **building awesom
 
 ## ➡ Next Projects
 
-- [ ] **ANGOWAY** <sup>(3 solutions)</sup> (**monitoring applications** for public buses in Luanda)
+- [x] **ANGOWAY** <sup>(3 solutions)</sup> (**monitoring applications** for public buses in Luanda)
 - [ ] **KARREIRA** (**first platform/app in Angola** for job opportunities for private and app drivers)
 - [ ] **CERTIFY** (**best** AI-powered certificate management application)
 - [ ] **FLEET** (**first private fleet managment system** built for Angolan Entrepreneurs)
